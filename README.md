@@ -1,6 +1,6 @@
 ## SuryaDasN
 **Yo,**
-<br><img align="center" alt="Hi" width="50%" src="freekyguy.gif" /><br>
+<br><img align="center" alt="Hi" width="30%" src="freekyguy.gif" /><br>
 <!--
 **SuryaDasN/SuryaDasN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
